@@ -2,6 +2,8 @@ body {
   background-color: #F0F3BD;
   font-family: Jost, Arial, serif;
   color: #05668D;
+   margin-left: 8%;
+  margin-right: 8%;
 
 }
 
@@ -21,6 +23,7 @@ body {
   font-family: Jost, Arial, serif;
   font-size: 18px;
   border-bottom: solid 3px #028090;
+
 }
 
 #logo {
@@ -41,4 +44,10 @@ body {
   color: #05668D;
   font-size: 15px;
   border-bottom: solid 2px #05668D;
+  
+}
+
+.link {
+  margin-left: 5%;
+  margin-right: 5%;
 }
